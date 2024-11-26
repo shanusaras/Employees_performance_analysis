@@ -8,8 +8,6 @@ To analyze employee performance at INX Future Inc and identify actionable insigh
 ### Context
 This project uses Python, SQL, and Power BI to implement advanced data science techniques, including predictive modeling, feature engineering, and statistical analysis. Key algorithms such as Random Forest, XGBoost, and Support Vector Machines (SVM) were employed to achieve high model accuracy.
 
----
-
 ## 2. Business Problem
 
 ### Problem Identification
