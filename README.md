@@ -1,5 +1,6 @@
 # Employee Performance Analysis and Workforce Optimization
 
+
 ## 1. Executive Summary
 
 ### Objective
@@ -7,6 +8,8 @@ To analyze employee performance at INX Future Inc and identify actionable insigh
 
 ### Context
 This project uses Python, SQL, and Power BI to implement advanced data science techniques, including predictive modeling, feature engineering, and statistical analysis. Key algorithms such as Random Forest, XGBoost, and Support Vector Machines (SVM) were employed to achieve high model accuracy.
+
+
 
 ## 2. Business Problem
 
@@ -16,7 +19,7 @@ The organization faces declining employee performance indices, leading to increa
 ### Business Impact
 Inefficiencies in performance evaluation and hiring have reduced workforce productivity, risking INX Future Inc's reputation as a top employer. A robust data-driven strategy is essential to pinpoint non-performing employees, improve performance, and optimize hiring.
 
----
+
 
 ## 3. Methodology
 
@@ -31,7 +34,7 @@ Inefficiencies in performance evaluation and hiring have reduced workforce produ
 - **Statistical Tests:** Performed ANOVA, Chi-square tests, and correlation analysis to evaluate feature importance.
 - **Predictive Modeling:** Trained and tuned Decision Tree, Random Forest, and XGBoost classifiers.
 
----
+
 
 ## 4. Skills
 
@@ -42,7 +45,7 @@ Inefficiencies in performance evaluation and hiring have reduced workforce produ
 - **Database Querying:** SQL
 - **Visualization Tools:** Power BI
 
----
+
 
 ## 5. Results & Business Recommendations
 
@@ -70,7 +73,7 @@ Inefficiencies in performance evaluation and hiring have reduced workforce produ
 - **Skill Development Initiatives:** Organize frequent training programs to upskill employees and foster career growth.
 - **Regular Feedback Mechanisms:** Proactive communication and performance reviews to track progress and address concerns.
 
----
+
 
 ## 6. Business Impact
 
@@ -79,7 +82,7 @@ Inefficiencies in performance evaluation and hiring have reduced workforce produ
 - Enhanced hiring processes by identifying high-performing employee profiles using predictive models.
 - Retained top talent by addressing key attrition factors, saving costs on rehiring and training.
 
----
+
 
 ## 7. Next Steps
 
@@ -89,7 +92,7 @@ Inefficiencies in performance evaluation and hiring have reduced workforce produ
 - **Expansion to Predict Attrition:** Build a dedicated model to predict and mitigate attrition risk.
 - **Cross-departmental Analysis:** Broaden scope to analyze interdepartmental dynamics for collaboration improvements.
 
----
+
 
 ## 8. Key Differentiators
 - **End-to-End Data Science Pipeline:** Demonstrates expertise in data cleaning, feature engineering, model development, and visualization.
